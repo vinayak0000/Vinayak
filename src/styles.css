@@ -1,0 +1,73 @@
+.body {
+  width: 60%;
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid black;
+  padding: 1%;
+  margin: 0 auto;
+}
+.container {
+  display: table;
+  clear: both;
+  padding: 5%;
+  width: 80%;
+  margin: 0 auto;
+}
+.container2 {
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.star {
+  float: left;
+  padding: 1%;
+  font-size: 30px;
+}
+.button {
+  float: left;
+  padding: 1%;
+  padding-left: 5%;
+}
+.refresh {
+  float: left;
+  padding: 1%;
+  padding-left: 5%;
+}
+.answer {
+  float: left;
+  padding: 1%;
+  padding-left: 5%;
+}
+.number {
+  padding: 2%;
+  width: 60%;
+  text-align: center;
+}
+span {
+  background-color: gray;
+  border-radius: 50%;
+  padding: 4px;
+  cursor: pointer;
+  margin: 10px;
+}
+.selected {
+  background-color: lightseagreen;
+  border-radius: 50%;
+  padding: 4px;
+  cursor: not-allowed;
+  margin: 10px;
+}
+.used {
+  background-color: rgb(185, 221, 219);
+  border-radius: 50%;
+  padding: 4px;
+  cursor: not-allowed;
+  margin: 10px;
+}
+.btn {
+  border: none;
+  height: 25px;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,2 +1,0 @@
-# Vinayak
-Created with CodeSandbox
